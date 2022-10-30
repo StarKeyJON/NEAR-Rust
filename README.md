@@ -1,5 +1,9 @@
 # Rust Smart Contract Template
 
+This repo is part of the 
+The Web3 Rust Course - NEAR Smart Contracts Web Development
+course
+
 ## Getting started
 
 To get started with this template:
